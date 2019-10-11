@@ -1,0 +1,28 @@
+{
+  "name": "weatherscript",
+  "version": "1.0.0",
+  "description": "weather script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-mohammed/nodejsWeatherScript.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "mohamed adel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-mohammed/nodejsWeatherScript/issues"
+  },
+  "homepage": "https://github.com/dev-mohammed/nodejsWeatherScript#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "request": "^2.88.0"
+  }
+}
